@@ -9,7 +9,7 @@ bcdedit /deletevalue {current} kernel
 bcdedit /deletevalue {current} nointegritychecks
 bcdedit /deletevalue {current} custom:26000027
 
-rem reg delete HKLM\SYSTEM\CurrentControlSet\services\oem-drv64 /va /f
+reg delete HKLM\SYSTEM\CurrentControlSet\services\oem-drv64 /va /f
 
 
 
