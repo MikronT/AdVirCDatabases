@@ -1,6 +1,0 @@
-%winDir%\ServiceProfiles\LocalService
-%winDir%\ServiceProfiles\NetworkService
-
-%winDir%\System32\config\systemprofile
-
-%winDir%\SysWOW64\config\systemprofile
