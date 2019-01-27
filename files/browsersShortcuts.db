@@ -1,0 +1,6 @@
+Google Chrome;%programFiles%\Google\Chrome\Application\chrome.exe;%programFiles%\Google\Chrome\Application
+Internet Explorer;%programFiles%\Internet Explorer\iexplore.exe;%programFiles%\Internet Explorer
+Mozilla Firefox;%programFiles%\Mozilla Firefox\firefox.exe;%programFiles%\Mozilla Firefox
+
+Opera;%programFiles%\Opera\launcher.exe;%programFiles%\Opera
+Браузер Opera;%programFiles%\Opera\launcher.exe;%programFiles%\Opera

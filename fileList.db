@@ -1,0 +1,33 @@
+dirs\appData.db
+dirs\browsersShortcuts.db
+dirs\classes.db
+dirs\extensions.db
+dirs\keys.db
+dirs\programFiles.db
+dirs\shortcuts.db
+dirs\temp.db
+dirs\userProfile.db
+
+files\appData.db
+files\browsersShortcuts.db
+files\programFiles.db
+files\shortcuts.db
+files\systemDrive.db
+files\winDir.db
+
+folders\appData.db
+folders\extensions.db
+folders\programFiles.db
+folders\systemDrive.db
+folders\userProfile.db
+folders\winDir.db
+
+# other\experimental.cmd
+# other\heuristic.cmd
+
+processes\processes.db
+processes\services.db
+processes\tasks.db
+
+registry\classes.db
+registry\keys.db
