@@ -22,8 +22,8 @@ folders\systemDrive.db
 folders\userProfile.db
 folders\winDir.db
 
-# other\experimental.cmd
-# other\heuristic.cmd
+# rules\experimental.cmd
+# rules\heuristic.cmd
 
 processes\processes.db
 processes\services.db
