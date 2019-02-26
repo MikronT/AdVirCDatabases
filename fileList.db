@@ -22,12 +22,12 @@ folders\systemDrive.db
 folders\userProfile.db
 folders\winDir.db
 
-# rules\experimental.cmd
-# rules\heuristic.cmd
-
 processes\processes.db
 processes\services.db
 processes\tasks.db
 
 registry\classes.db
 registry\keys.db
+
+# rules\experimental.cmd
+# rules\heuristic.cmd
