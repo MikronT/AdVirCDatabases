@@ -172,7 +172,6 @@ Software\Microsoft\Xpom
 Software\MimarSinan
 Software\MozillaPlugins
 Software\NetBox
-Software\NETBOX\Kometa
 Software\Policies\Google\Chrome\ExtensionInstallForcelist
 Software\Policies\Google\Chrome\ExtensionInstallSources
 Software\Rambler
@@ -191,7 +190,10 @@ Software\Unity
 Software\UpdateStar
 Software\WindowsPlayer
 Software\WOW6432Node\Google\Chrome\Extension
+Software\WOW6432Node\Google\Chrome\ExtensionInstallForcelist
+Software\WOW6432Node\Google\Chrome\ExtensionInstallSources
 Software\WOW6432Node\Microsoft\"Internet Explorer"\Toolbar
+Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\"Browser Helper Objects"
 Software\Xpom
 Software\Yandex
 SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\QQPCRTP
