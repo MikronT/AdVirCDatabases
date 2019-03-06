@@ -14,22 +14,25 @@
 
 ### Version name: *AdVirC Databases v2.0 Pre-Alpha Revision 1*
 
-Virus databases for the AdVirC Removal Tool.
+Virus databases for the AdVirC.
 
-*Developed for Windows 7, 8, 8.1 and 10.*
+*Developed only for Windows 10*
 
 
 
 ## Version History
-| Date       | Version Name              | Version Code    |
-|------------|---------------------------|-----------------|
-| 27.11.2018 | v2.0 Pre-Alpha Revision 1 | 2.0.0.0.0.0.001 |
+| Date       | Version Name              | Version Code        |
+|------------|---------------------------|---------------------|
+| 27.11.2018 | v2.0 Pre-Alpha Revision 1 | 2.0.0.0.0.0.001     |
 
 <!--
-AdVirC Databases v2.0 Alpha 1 Revision 1           2.0.0.1.1.0.001
-AdVirC Databases v2.0 Alpha 2 Revision 144         2.0.0.1.2.0.144
-AdVirC Databases v2.0 Beta 1 Revision 16           2.0.0.2.1.0.016
-AdVirC Databases v2.0 Pre-Release 1 Revision 4     2.0.0.3.1.0.004
-AdVirC Databases v2.0 Release Revision 742         2.0.0.4.0.0.742
-AdVirC Databases v2.1 Release Revision 243         2.1.0.4.0.0.243
+AdVirC Databases v2.0 Alpha 1 Revision 1                  2.0.0.1.1.0.001
+AdVirC Databases v2.0 Alpha 2 Revision 144                2.0.0.1.2.0.144
+AdVirC Databases v2.0 Beta 1 Revision 16                  2.0.0.2.1.0.016
+AdVirC Databases v2.0 Pre-Release 1 Revision 4            2.0.0.3.1.0.004
+AdVirC Databases v2.0 Release Revision 742                2.0.0.4.0.0.742
+
+AdVirC Databases v2.0 Beta 1 Revision 14                  2.1.0.2.1.0.014
+AdVirC Databases v2.1 Release Revision 114 Nightly 12     2.1.0.2.1.0.114.012
+AdVirC Databases v2.1 Release Revision 243                2.1.0.4.0.0.243
 -->
