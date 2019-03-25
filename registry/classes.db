@@ -1,4 +1,4 @@
-*\shellex\ContextMenuHandlers\"Advanced SystemCare"
+*\shellex\ContextMenuHandlers\Advanced SystemCare
 .qbox
 ad.h
 ad.h.1
@@ -28,7 +28,7 @@ CLSID\{2803063F-4B8D-4dc6-8874-D1802487FE2D}
 CLSID\{2FB831EA-DA68-4A66-8E31-A2D976A6296C}
 CLSID\{3DCCD550-7586-40D2-A51D-D2F98EC06B3C}
 CLSID\{63332668-8CE1-445D-A5EE-25929176714E}
-CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\shellex\ContextMenuHandlers\"Advanced SystemCare"
+CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\shellex\ContextMenuHandlers\Advanced SystemCare
 CLSID\{6ADF19E3-77A3-4395-ADB4-9FD7D351EB3E}
 CLSID\{70DE12EA-79F4-46BC-9812-86DB50A2FD64}
 CLSID\{73EF2588-E4D1-4623-9B45-E0BBD6B65E9C}
@@ -41,8 +41,8 @@ CLSID\{B9E49847-9822-4139-BC55-7173ED1ADA11}
 CLSID\{C9487131-EF4C-40D9-BA70-E85356CAF67E}
 CLSID\{D2D4C0D4-2E88-40D0-A0DB-B8F9AC388529}
 CLSID\{E52EB753-1F56-4DF7-BE53-2C314AC5F8A1}
-Directore\shellex\ContextMenuHandlers\"Advanced SystemCare"
-Drive\shellex\ContextMenuHandlers\"Advanced SystemCare"
+Directore\shellex\ContextMenuHandlers\Advanced SystemCare
+Drive\shellex\ContextMenuHandlers\Advanced SystemCare
 Folder\shellex\ContextMenuHandlers\QMContextScan
 globalUpdate.OneClickCtrl.10
 globalUpdate.OneClickProcessLauncherMachine
@@ -208,7 +208,7 @@ KuaiZipMount.nrg
 KuaiZipMount.vcd
 KuaiZipMount.wv
 KuaiZipMount_FileAsso.Origin
-lnkfile\shellex\ContextMenuHandlers\"Advanced SystemCare"
+lnkfile\shellex\ContextMenuHandlers\Advanced SystemCare
 lnkfile\shellex\ContextMenuHandlers\QMContextScan
 magent
 magent

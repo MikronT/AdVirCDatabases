@@ -1,11 +1,11 @@
-Software\"Baidu Security"
-Software\"ChemTable Software"
-Software\"Common Toolkit Suite"
-Software\"Elements Browser"
-Software\"Local AppWizard-Generated Applications\Reimage - Windows Problem Relief."
-Software\"Media Get LLC"
-Software\"Obnovi Soft"
-Software\"Solvusoft Corporation"
+Software\Baidu Security
+Software\ChemTable Software
+Software\Common Toolkit Suite
+Software\Elements Browser
+Software\Local AppWizard-Generated Applications\Reimage - Windows Problem Relief.
+Software\Media Get LLC
+Software\Obnovi Soft
+Software\Solvusoft Corporation
 Software\agent.desktop
 Software\Amigo
 Software\AppDataLow\Software\Mail.Ru
@@ -52,100 +52,100 @@ Software\Mail.Ru
 Software\McAfee.com
 Software\mcafeeupdater
 Software\MediaGet
-Software\Microsoft\"Internet Explorer"\Main
-Software\Microsoft\"Internet Explorer"\Main
-Software\Microsoft\"Internet Explorer"\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
-Software\Microsoft\"Internet Explorer"\Toolbar
-Software\Microsoft\"Internet Explorer"\URLSearchHooks
-Software\Microsoft\"Shared Tools"\MSConfig\startupreg\msiql
-Software\Microsoft\"Shared Tools"\MSConfig\startupreg\Publisher
-Software\Microsoft\"Windows NT"\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
-Software\Microsoft\"Windows NT"\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
-Software\Microsoft\Direct3D\MostRecentApplication /v Name
+Software\Microsoft\Internet Explorer\Main
+Software\Microsoft\Internet Explorer\Main
+Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
+Software\Microsoft\Internet Explorer\Toolbar
+Software\Microsoft\Internet Explorer\URLSearchHooks
+Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
+Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
+Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
 Software\Microsoft\Gosearch
 Software\Microsoft\Gosearchq
 Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
-Software\Microsoft\Windows\CurrentVersion\"App Paths"\Reimage.exe
-Software\Microsoft\Windows\CurrentVersion\"App Paths"\WinThruster.exe
-Software\Microsoft\Windows\CurrentVersion\"Shell Extensions"\Approved /v "KuaiZip Shell Extension"
-Software\Microsoft\Windows\CurrentVersion\"Shell Extensions"\Approved /v {63332668-8CE1-445D-A5EE-25929176714E}
-Software\Microsoft\Windows\CurrentVersion\Explorer\"Browser Helper Objects"
-Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\"Start Menu2"\Programs\"Amigo Apps"
-Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\"Start Menu2"\Programs\ICQ
-Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\"Start Menu2"\Programs\Mail.Ru
+Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
+Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "KuaiZip Shell Extension
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
+Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Amigo Apps
+Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\ICQ
+Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Mail.Ru
 Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\KzShlobj
 Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611484}
 Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
 Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\61F70108E2BCBA24BAD9C61145D0A5B8
-Software\Microsoft\Windows\CurrentVersion\Run /v " QQPCTray"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 10"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 11"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 12"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 13"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 14"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 15"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 16"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 17"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 18"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 19"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 2"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 20"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 21"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 22"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 23"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 24"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 25"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 26"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 27"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 28"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 29"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 3"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 30"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 4"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 5"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 6"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 7"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 8"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare 9"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Advanced SystemCare"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Baidu Antivirus"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Baidu PC Faster 5.1.0.0"
-Software\Microsoft\Windows\CurrentVersion\Run /v "IObit Malware Fighter"
-Software\Microsoft\Windows\CurrentVersion\Run /v "uCozMedia UranUpdate"
-Software\Microsoft\Windows\CurrentVersion\Run /v "Обнови Софт"
-Software\Microsoft\Windows\CurrentVersion\Run /v agent.desktop
-Software\Microsoft\Windows\CurrentVersion\Run /v amigo
-Software\Microsoft\Windows\CurrentVersion\Run /v CommonToolkitTray_Solvusoft
-Software\Microsoft\Windows\CurrentVersion\Run /v Dashlane
-Software\Microsoft\Windows\CurrentVersion\Run /v DashlanePlugin
-Software\Microsoft\Windows\CurrentVersion\Run /v Guard.Mail.ru.gui
-Software\Microsoft\Windows\CurrentVersion\Run /v hdtask
-Software\Microsoft\Windows\CurrentVersion\Run /v icq.desktop
-Software\Microsoft\Windows\CurrentVersion\Run /v KometaLaunchPanel
-Software\Microsoft\Windows\CurrentVersion\Run /v MailRuUpdater
-Software\Microsoft\Windows\CurrentVersion\Run /v MediaGet
-Software\Microsoft\Windows\CurrentVersion\Run /v MediaGet2
-Software\Microsoft\Windows\CurrentVersion\Run /v MediaGetLLC
-Software\Microsoft\Windows\CurrentVersion\Run /v mrupdsrv
-Software\Microsoft\Windows\CurrentVersion\Run /v OneDrive
-Software\Microsoft\Windows\CurrentVersion\Run /v QQPCTray
-Software\Microsoft\Windows\CurrentVersion\Run /v RavTRAY
-Software\Microsoft\Windows\CurrentVersion\Run /v RSDTRAY
-Software\Microsoft\Windows\CurrentVersion\Run /v UpdateStar
+Software\Microsoft\Windows\CurrentVersion\Run" /v " QQPCTray
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 10
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 11
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 12
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 13
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 14
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 15
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 16
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 17
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 18
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 19
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 2
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 20
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 21
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 22
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 23
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 24
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 25
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 26
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 27
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 28
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 29
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 3
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 30
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 4
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 5
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 6
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 7
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 8
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 9
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu Antivirus
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu PC Faster 5.1.0.0
+Software\Microsoft\Windows\CurrentVersion\Run" /v "IObit Malware Fighter
+Software\Microsoft\Windows\CurrentVersion\Run" /v "uCozMedia UranUpdate
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Обнови Софт
+Software\Microsoft\Windows\CurrentVersion\Run" /v "agent.desktop
+Software\Microsoft\Windows\CurrentVersion\Run" /v "amigo
+Software\Microsoft\Windows\CurrentVersion\Run" /v "CommonToolkitTray_Solvusoft
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Dashlane
+Software\Microsoft\Windows\CurrentVersion\Run" /v "DashlanePlugin
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Guard.Mail.ru.gui
+Software\Microsoft\Windows\CurrentVersion\Run" /v "hdtask
+Software\Microsoft\Windows\CurrentVersion\Run" /v "icq.desktop
+Software\Microsoft\Windows\CurrentVersion\Run" /v "KometaLaunchPanel
+Software\Microsoft\Windows\CurrentVersion\Run" /v "MailRuUpdater
+Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGet
+Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGet2
+Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGetLLC
+Software\Microsoft\Windows\CurrentVersion\Run" /v "mrupdsrv
+Software\Microsoft\Windows\CurrentVersion\Run" /v "OneDrive
+Software\Microsoft\Windows\CurrentVersion\Run" /v "QQPCTray
+Software\Microsoft\Windows\CurrentVersion\Run" /v "RavTRAY
+Software\Microsoft\Windows\CurrentVersion\Run" /v "RSDTRAY
+Software\Microsoft\Windows\CurrentVersion\Run" /v "UpdateStar
 Software\Microsoft\Windows\CurrentVersion\Run\QQDisabled
 Software\Microsoft\Windows\CurrentVersion\RunOncel529C50F600006EBE6939117384EB2988
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Advanced SystemCare_is1"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Baidu Antivirus"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Baidu PC Faster 4.0.0.0"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Baidu PC Faster 5.1.0.0"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Driver Booster_is1"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"IObit Malware Fighter_is1"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Live Security Platinum"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"McAfee Security Scan"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Reg Organizer 5_is1"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Reimage Repair"
-Software\Microsoft\Windows\CurrentVersion\Uninstall\"Обнови Софт"
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Advanced SystemCare_is1
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu Antivirus
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 4.0.0.0
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 5.1.0.0
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Driver Booster_is1
+Software\Microsoft\Windows\CurrentVersion\Uninstall\IObit Malware Fighter_is1
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Live Security Platinum
+Software\Microsoft\Windows\CurrentVersion\Uninstall\McAfee Security Scan
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Reg Organizer 5_is1
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Reimage Repair
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Обнови Софт
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{074CBAD4-DB6D-4AD8-8A4B-C14B07C48531}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{56FF428C-E621-461B-A1C2-59385F751A45}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}}_is1
@@ -175,11 +175,11 @@ Software\NetBox
 Software\Policies\Google\Chrome\ExtensionInstallForcelist
 Software\Policies\Google\Chrome\ExtensionInstallSources
 Software\Rambler
-Software\RegisteredApplications /v Firefox-308046B0AF4A39CB
-Software\RegisteredApplications /v Kometa.VC4YBCHFM54RDTDQVTYKIS5BKA
-Software\RegisteredApplications /v Yandex.PEKD4VWOOO6QHCIB4QOPPGZFM4
-Software\RegisteredApplications /v Yandex.VC4YBCHFM54RDTDQVTYKIS5BKA
-Software\RegisteredApplications /v Амиго.VC4YBCHFM54RDTDQVTYKIS5BKA
+Software\RegisteredApplications" /v "Firefox-308046B0AF4A39CB
+Software\RegisteredApplications" /v "Kometa.VC4YBCHFM54RDTDQVTYKIS5BKA
+Software\RegisteredApplications" /v "Yandex.PEKD4VWOOO6QHCIB4QOPPGZFM4
+Software\RegisteredApplications" /v "Yandex.VC4YBCHFM54RDTDQVTYKIS5BKA
+Software\RegisteredApplications" /v "Амиго.VC4YBCHFM54RDTDQVTYKIS5BKA
 Software\Reimage
 Software\Software\Ultimate-Discounter
 Software\Solvusoft
@@ -192,8 +192,8 @@ Software\WindowsPlayer
 Software\WOW6432Node\Google\Chrome\Extension
 Software\WOW6432Node\Google\Chrome\ExtensionInstallForcelist
 Software\WOW6432Node\Google\Chrome\ExtensionInstallSources
-Software\WOW6432Node\Microsoft\"Internet Explorer"\Toolbar
-Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\"Browser Helper Objects"
+Software\WOW6432Node\Microsoft\Internet Explorer\Toolbar
+Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
 Software\Xpom
 Software\Yandex
 SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\QQPCRTP
@@ -206,32 +206,32 @@ SYSTEM\CurrentControlSet\Services\IUProcessFilter
 SYSTEM\CurrentControlSet\Services\IURegistryFilter
 SYSTEM\CurrentControlSet\Services\KuaizipUpdateChecker
 SYSTEM\CurrentControlSet\Services\Nunesstither
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {026004CA-1E3F-425F-907D-C43E75EE6627}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {0445FEDD-89B1-44B2-912A-A9900CD4112A}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {0F275F4C-9F44-4E28-A957-105F1AAF3E14}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {29FC7EF2-B029-45F2-A9EC-56621D876E44}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {2CFF83EA-FEA7-47D6-8147-493DAC6750DB}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {3E273931-9E02-4E4D-B7E0-1A7B70BFAF4E}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {47CF33B6-5114-44A6-93CD-B18B8CA8B3C0}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {583AC84D-71F3-445C-A9CD-6D98ED763245}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {5AEF9E2E-E47C-44E5-A7E5-436401F1C18E}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {5B042B4F-8AB8-4C4E-A90F-EB24C3C326CF}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {84651335-E91D-4251-B839-92B432B06309}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {8479D860-AF46-4F9D-B472-92C18145E6A9}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {950A62BF-C866-4B38-BB0E-77CD7E879520}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {9BDB5ED3-E6F4-469C-9CAE-EC35668A7D6D}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {A7FE0F17-12EC-4937-AFA0-28A5A2BC2F38}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {AD2CE6E3-708C-4536-8554-408DE0ACB5CC}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {B14D94F1-2BD4-487B-B64D-2ECD264BDAFA}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {B61220BB-711A-41E8-99BA-567E19273F4D}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {B7BF8973-3FFF-419D-AB5F-F8A01AD5720C}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {BC7317FA-7B55-4066-8549-B66200D50D3A}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {D4898874-E767-41F2-B83A-53EFCE94ADD5}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {D55C53D1-B605-48BD-A2B4-D34D314E237B}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {DD709629-E185-407C-AB5C-669DCEB5464B}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {E214DDE1-842F-4CDF-824E-B09263D56B52}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {E4BB3FF6-9438-44FA-9968-5F73EC16DB68}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {E5F3C0EC-0CF5-480F-8220-4F33266072CC}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {EA7DF2A2-0064-4BB9-BFBB-14A52B7E8487}
-SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules /v {FF74A4FE-E28E-455B-9A31-D2C35E87C59B}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{026004CA-1E3F-425F-907D-C43E75EE6627}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0445FEDD-89B1-44B2-912A-A9900CD4112A}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0F275F4C-9F44-4E28-A957-105F1AAF3E14}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{29FC7EF2-B029-45F2-A9EC-56621D876E44}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{2CFF83EA-FEA7-47D6-8147-493DAC6750DB}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{3E273931-9E02-4E4D-B7E0-1A7B70BFAF4E}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{47CF33B6-5114-44A6-93CD-B18B8CA8B3C0}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{583AC84D-71F3-445C-A9CD-6D98ED763245}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5AEF9E2E-E47C-44E5-A7E5-436401F1C18E}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5B042B4F-8AB8-4C4E-A90F-EB24C3C326CF}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{84651335-E91D-4251-B839-92B432B06309}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{8479D860-AF46-4F9D-B472-92C18145E6A9}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{950A62BF-C866-4B38-BB0E-77CD7E879520}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{9BDB5ED3-E6F4-469C-9CAE-EC35668A7D6D}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{A7FE0F17-12EC-4937-AFA0-28A5A2BC2F38}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{AD2CE6E3-708C-4536-8554-408DE0ACB5CC}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B14D94F1-2BD4-487B-B64D-2ECD264BDAFA}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B61220BB-711A-41E8-99BA-567E19273F4D}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B7BF8973-3FFF-419D-AB5F-F8A01AD5720C}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{BC7317FA-7B55-4066-8549-B66200D50D3A}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D4898874-E767-41F2-B83A-53EFCE94ADD5}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D55C53D1-B605-48BD-A2B4-D34D314E237B}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{DD709629-E185-407C-AB5C-669DCEB5464B}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{E214DDE1-842F-4CDF-824E-B09263D56B52}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{E4BB3FF6-9438-44FA-9968-5F73EC16DB68}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{E5F3C0EC-0CF5-480F-8220-4F33266072CC}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{EA7DF2A2-0064-4BB9-BFBB-14A52B7E8487}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{FF74A4FE-E28E-455B-9A31-D2C35E87C59B}
 SYSTEM\CurrentControlSet\Services\WinSnare
