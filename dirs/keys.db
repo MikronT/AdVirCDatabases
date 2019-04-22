@@ -1,4 +1,3 @@
-HKCR
-HKCR\Software
 HKLM
-HKLM\Software
+HKLM\SoftwareHKLM\Software\Classes
+HKLM\Software\Classes\Software
