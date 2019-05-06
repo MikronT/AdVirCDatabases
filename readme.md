@@ -1,18 +1,18 @@
 # AdVirC Databases
 
-[![Status: Pre-Alpha](https://img.shields.io/badge/Status-Pre--Alpha-black.svg?style=for-the-badge)](#)
+[![Status: Alpha](https://img.shields.io/badge/Status-Alpha-red.svg?style=for-the-badge)](#)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-black.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+[![Latest Release](https://img.shields.io/badge/Latest-Release-blue.svg?style=for-the-badge)](https://github.com/MikronT/AdVirCDatabases/releases/latest)
 
 <!--
-[![Status: Alpha](https://img.shields.io/badge/Status-Alpha-red.svg?style=for-the-badge)](#)
+[![Status: Pre-Alpha](https://img.shields.io/badge/Status-Pre--Alpha-black.svg?style=for-the-badge)](#)
+
 [![Status: Beta](https://img.shields.io/badge/Status-Beta-orange.svg?style=for-the-badge)](#)
 [![Status: Pre-Release](https://img.shields.io/badge/Status-Pre--Release-yellow.svg?style=for-the-badge)](#)
 [![Status: Release](https://img.shields.io/badge/Status-Release-green.svg?style=for-the-badge)](#)
-
-[![Latest Release](https://img.shields.io/badge/Latest-Release-blue.svg?style=for-the-badge)](https://github.com/MikronT/AdVirCDatabases/releases/latest)
 -->
 
-### Version name: *AdVirC Databases v2.0 Pre-Alpha Revision 1*
+### Version name: *AdVirC Databases v2.0 Alpha 1 Revision 1*
 
 Virus databases for the AdVirC.
 
@@ -23,6 +23,7 @@ Virus databases for the AdVirC.
 ## Version History
 | Date       | Version Name              | Version Code        |
 |------------|---------------------------|---------------------|
+| 06.05.2019 | v2.0 Alpha 1 Revision 1   | 2.0.0.1.1.0.001     |
 | 27.11.2018 | v2.0 Pre-Alpha Revision 1 | 2.0.0.0.0.0.001     |
 
 <!--
