@@ -9,6 +9,7 @@ dirs\temp.db
 dirs\userProfile.db
 
 files\appData.db
+# files\appData-firefoxUserProfile.db
 files\browsersShortcuts.db
 files\programFiles.db
 files\shortcuts.db
@@ -16,6 +17,7 @@ files\systemDrive.db
 files\winDir.db
 
 folders\appData.db
+# folders\appData-firefoxUserProfile.db
 folders\extensions.db
 folders\programFiles.db
 folders\systemDrive.db

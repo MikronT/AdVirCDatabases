@@ -33,15 +33,6 @@ InstallationConfigurations.xml
 Installer.dat
 Lexikix.exe
 Matwarm.exe
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\ntp-amigo@corp.mail.ru.xpi
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\sovetnik@metabar.ru.xpi
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\staged\sovetnik@metabar.ru.json
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\staged\sovetnik@metabar.ru.xpi
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\staged\vb@yandex.ru.json
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\staged\vb@yandex.ru.xpi
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\extensions\vb@yandex.ru.xpi
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\searchplugins\askcom.xml
-Mozilla\Firefox\Profiles\%firefoxUserProfile%\user.js
 service.exe
 smp2.exe
 vof.exe
