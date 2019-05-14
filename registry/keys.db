@@ -55,6 +55,7 @@ Software\MediaGet
 Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
 Software\Microsoft\Gosearch
 Software\Microsoft\Gosearchq
+Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{68AE298D-7E8A-4F53-BE55-15D2B065F6C0}
 Software\Microsoft\Internet Explorer\Main
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 Software\Microsoft\Internet Explorer\Toolbar
