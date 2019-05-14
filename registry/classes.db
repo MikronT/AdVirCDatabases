@@ -39,7 +39,6 @@ CLSID\{8E8F97CD-60B5-456F-A201-73065652D099}
 CLSID\{AAA0C5B8-933F-4200-93AD-B143D7FFF9F2}
 CLSID\{AEFA7E78-CF7E-4550-829F-2C786A0070BF}
 CLSID\{B9E49847-9822-4139-BC55-7173ED1ADA11}
-CLSID\{8E8F97CD-60B5-456F-A201-73065652D099}
 CLSID\{C9487131-EF4C-40D9-BA70-E85356CAF67E}
 CLSID\{D2D4C0D4-2E88-40D0-A0DB-B8F9AC388529}
 CLSID\{E52EB753-1F56-4DF7-BE53-2C314AC5F8A1}
@@ -213,14 +212,9 @@ KuaiZipMount_FileAsso.Origin
 lnkfile\shellex\ContextMenuHandlers\Advanced SystemCare
 lnkfile\shellex\ContextMenuHandlers\QMContextScan
 magent
-magent
-MailRu.MailRuSputnikObj
 MailRu.MailRuSputnikObj
 MailRu.MailRuSputnikObj.1
-MailRu.MailRuSputnikObj.1
 MailRuSputnik.MailRuBHO
-MailRuSputnik.MailRuBHO
-MailRuSputnik.MailRuBHO.1
 MailRuSputnik.MailRuBHO.1
 metnsd
 nsWebAlta.WebAltaSearchBar
