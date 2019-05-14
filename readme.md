@@ -12,7 +12,7 @@
 [![Status: Release](https://img.shields.io/badge/Status-Release-green.svg?style=for-the-badge)](#)
 -->
 
-### Version name: *AdVirC Databases v2.0 Alpha 2 Revision 1*
+### Version name: *AdVirC Databases v2.0 Alpha 2 Revision 2*
 
 Virus databases for the AdVirC.
 
@@ -23,6 +23,7 @@ Virus databases for the AdVirC.
 ## Version History
 | Date       | Version Name              | Version Code        |
 |------------|---------------------------|---------------------|
+| 14.05.2019 | v2.0 Alpha 2 Revision 2   | 2.0.0.1.2.0.002     |
 | 13.05.2019 | v2.0 Alpha 2 Revision 1   | 2.0.0.1.2.0.001     |
 | 06.05.2019 | v2.0 Alpha 1 Revision 1   | 2.0.0.1.1.0.001     |
 | 27.11.2018 | v2.0 Pre-Alpha Revision 1 | 2.0.0.0.0.0.001     |
