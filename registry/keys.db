@@ -195,6 +195,9 @@ Software\WOW6432Node\Microsoft\Internet Explorer\Toolbar
 Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
 Software\Xpom
 Software\Yandex
+
+
+
 SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\QQPCRTP
 SYSTEM\CurrentControlSet\Control\SafeBoot\Network\QQPCRTP
 SYSTEM\CurrentControlSet\Services\Archer
