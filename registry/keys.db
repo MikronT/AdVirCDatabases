@@ -1,23 +1,19 @@
-Software\Auslogics
-Software\Baidu Security
-Software\ChemTable Software
-Software\Common Toolkit Suite
-Software\Elements Browser
-Software\Local AppWizard-Generated Applications\Reimage - Windows Problem Relief.
-Software\Media Get LLC
-Software\Obnovi Soft
-Software\Solvusoft Corporation
 Software\agent.desktop
 Software\Amigo
 Software\AppDataLow\Software\Mail.Ru
 Software\AppDataLow\Software\Unity
 Software\AppDataLow\Yandex
+Software\Auslogics
+Software\Baidu Security
 Software\Baidu_Drp_pos
 Software\BavMini
+Software\ChemTable Software
 Software\Chromium
+Software\Common Toolkit Suite
 Software\Dashlane
 Software\Dashlane_profiles
 Software\DtsEncodeTools
+Software\Elements Browser
 Software\Google\Chrome\Extensions\afeplgpaegadminidkmfjdjeagjgjjem
 Software\Google\Chrome\Extensions\ahnphcmhmhcjjcjhmnnjjlbmaeljecqa
 Software\Google\Chrome\Extensions\bfaohpmjmhdgnjblojekjlnadhehiadj
@@ -47,10 +43,12 @@ Software\IObit
 Software\Kometa
 Software\KuaiZip
 Software\KuaiZipSFX
+Software\Local AppWizard-Generated Applications\Reimage - Windows Problem Relief.
 Software\Macromedia
 Software\Mail.Ru
 Software\McAfee.com
 Software\mcafeeupdater
+Software\Media Get LLC
 Software\MediaGet
 Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
 Software\Microsoft\Gosearch
@@ -63,10 +61,10 @@ Software\Microsoft\Internet Explorer\URLSearchHooks
 Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
 Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
-Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "KuaiZip Shell Extension
-Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
 Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Amigo Apps
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\ICQ
@@ -77,6 +75,7 @@ Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-730
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
 Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\61F70108E2BCBA24BAD9C61145D0A5B8
 Software\Microsoft\Windows\CurrentVersion\Run" /v " QQPCTray
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 10
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 11
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 12
@@ -106,20 +105,17 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 6
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 7
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 8
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 9
-Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare
-Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu Antivirus
-Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu PC Faster 5.1.0.0
-Software\Microsoft\Windows\CurrentVersion\Run" /v "IObit Malware Fighter
-Software\Microsoft\Windows\CurrentVersion\Run" /v "uCozMedia UranUpdate
-Software\Microsoft\Windows\CurrentVersion\Run" /v "Обнови Софт
 Software\Microsoft\Windows\CurrentVersion\Run" /v "agent.desktop
 Software\Microsoft\Windows\CurrentVersion\Run" /v "amigo
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu Antivirus
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu PC Faster 5.1.0.0
 Software\Microsoft\Windows\CurrentVersion\Run" /v "CommonToolkitTray_Solvusoft
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Dashlane
 Software\Microsoft\Windows\CurrentVersion\Run" /v "DashlanePlugin
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Guard.Mail.ru.gui
 Software\Microsoft\Windows\CurrentVersion\Run" /v "hdtask
 Software\Microsoft\Windows\CurrentVersion\Run" /v "icq.desktop
+Software\Microsoft\Windows\CurrentVersion\Run" /v "IObit Malware Fighter
 Software\Microsoft\Windows\CurrentVersion\Run" /v "KometaLaunchPanel
 Software\Microsoft\Windows\CurrentVersion\Run" /v "MailRuUpdater
 Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGet
@@ -130,9 +126,13 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "OneDrive
 Software\Microsoft\Windows\CurrentVersion\Run" /v "QQPCTray
 Software\Microsoft\Windows\CurrentVersion\Run" /v "RavTRAY
 Software\Microsoft\Windows\CurrentVersion\Run" /v "RSDTRAY
+Software\Microsoft\Windows\CurrentVersion\Run" /v "uCozMedia UranUpdate
 Software\Microsoft\Windows\CurrentVersion\Run" /v "UpdateStar
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Обнови Софт
 Software\Microsoft\Windows\CurrentVersion\Run\QQDisabled
 Software\Microsoft\Windows\CurrentVersion\RunOnce\l529C50F600006EBE6939117384EB2988
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "KuaiZip Shell Extension
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{074CBAD4-DB6D-4AD8-8A4B-C14B07C48531}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{56FF428C-E621-461B-A1C2-59385F751A45}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}_is1
@@ -168,12 +168,11 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\WinThruster
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YandexBrowser
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YaPinLancher
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Обнови Софт
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
 Software\Microsoft\Xpom
 Software\MimarSinan
 Software\MozillaPlugins
 Software\NetBox
+Software\Obnovi Soft
 Software\Policies\Google\Chrome\ExtensionInstallForcelist
 Software\Policies\Google\Chrome\ExtensionInstallSources
 Software\Rambler
@@ -185,6 +184,7 @@ Software\RegisteredApplications" /v "Амиго.VC4YBCHFM54RDTDQVTYKIS5BKA
 Software\Reimage
 Software\Software\Ultimate-Discounter
 Software\Solvusoft
+Software\Solvusoft Corporation
 Software\Tencent
 Software\uCozMedia
 Software\Ultimate-Discounter
