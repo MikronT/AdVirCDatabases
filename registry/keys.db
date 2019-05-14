@@ -7,11 +7,13 @@ Software\Auslogics
 Software\Baidu Security
 Software\Baidu_Drp_pos
 Software\BavMini
+Software\Carambis
 Software\ChemTable Software
 Software\Chromium
 Software\Common Toolkit Suite
 Software\Dashlane
 Software\Dashlane_profiles
+Software\drpsu
 Software\DtsEncodeTools
 Software\Elements Browser
 Software\Google\Chrome\Extensions\afeplgpaegadminidkmfjdjeagjgjjem
@@ -63,6 +65,7 @@ Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
 Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
 Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
+Software\Microsoft\Windows\CurrentVersion\App Paths\browser.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
 Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
@@ -170,6 +173,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\YaPinLancher
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Обнови Софт
 Software\Microsoft\Xpom
 Software\MimarSinan
+Software\Mozilla\NativeMessagingHosts\ru.mail.go.ext_info_host
 Software\MozillaPlugins
 Software\NetBox
 Software\Obnovi Soft
