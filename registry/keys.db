@@ -132,7 +132,7 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "RavTRAY
 Software\Microsoft\Windows\CurrentVersion\Run" /v "RSDTRAY
 Software\Microsoft\Windows\CurrentVersion\Run" /v "UpdateStar
 Software\Microsoft\Windows\CurrentVersion\Run\QQDisabled
-Software\Microsoft\Windows\CurrentVersion\RunOncel529C50F600006EBE6939117384EB2988
+Software\Microsoft\Windows\CurrentVersion\RunOnce\l529C50F600006EBE6939117384EB2988
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Advanced SystemCare_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu Antivirus
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 4.0.0.0
