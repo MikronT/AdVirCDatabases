@@ -52,18 +52,16 @@ Software\Mail.Ru
 Software\McAfee.com
 Software\mcafeeupdater
 Software\MediaGet
+Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
+Software\Microsoft\Gosearch
+Software\Microsoft\Gosearchq
 Software\Microsoft\Internet Explorer\Main
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 Software\Microsoft\Internet Explorer\Toolbar
 Software\Microsoft\Internet Explorer\URLSearchHooks
+Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
-Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
-Software\Microsoft\Gosearch
-Software\Microsoft\Gosearchq
-Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
 Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "KuaiZip Shell Extension
@@ -167,6 +165,8 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\Uran
 Software\Microsoft\Windows\CurrentVersion\Uninstall\WinThruster
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YandexBrowser
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YaPinLancher
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
 Software\Microsoft\Xpom
 Software\MimarSinan
 Software\MozillaPlugins
