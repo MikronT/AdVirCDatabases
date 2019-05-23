@@ -23,7 +23,7 @@ Software\Kometa
 Software\KuaiZip
 Software\KuaiZipSFX
 Software\Local AppWizard-Generated Applications\Reimage - Windows Problem Relief.
-Software\Macromedia
+# Software\Macromedia
 Software\Mail.Ru
 Software\McAfee.com
 Software\mcafeeupdater
@@ -33,10 +33,10 @@ Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
 Software\Microsoft\Gosearch
 Software\Microsoft\Gosearchq
 Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{68AE298D-7E8A-4F53-BE55-15D2B065F6C0}
-Software\Microsoft\Internet Explorer\Main
+# Software\Microsoft\Internet Explorer\Main
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 Software\Microsoft\Internet Explorer\Toolbar
-Software\Microsoft\Internet Explorer\URLSearchHooks
+# Software\Microsoft\Internet Explorer\URLSearchHooks
 Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
