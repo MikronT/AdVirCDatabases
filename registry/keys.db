@@ -6,12 +6,15 @@ Software\AppDataLow\Yandex
 Software\Baidu Security
 Software\Baidu_Drp_pos
 Software\BavMini
+Software\ByteFence
 Software\Carambis
 Software\ChemTable Software
 Software\Chromium
 Software\Common Toolkit Suite
+Software\csastats
 Software\Dashlane
 Software\Dashlane_profiles
+Software\DllKitPRO
 Software\drpsu
 Software\DtsEncodeTools
 Software\Elements Browser
@@ -41,7 +44,9 @@ Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
 Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{CC2D1001-4CAF-4C05-8AD3-656F57B1C46E}
 Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
+Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\DllKitPRO
 Software\Microsoft\Windows\CurrentVersion\App Paths\browser.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
@@ -126,6 +131,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\Amigo
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu Antivirus
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 4.0.0.0
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 5.1.0.0
+Software\Microsoft\Windows\CurrentVersion\Uninstall\DllKit Pro 2017
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Driver Booster_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\FileViewPro_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Guard.Mail.ru
@@ -156,6 +162,7 @@ Software\NetBox
 Software\Obnovi Soft
 Software\Policies\Google\Chrome\ExtensionInstallForcelist
 Software\Policies\Google\Chrome\ExtensionInstallSources
+Software\PRODUCTSETUP
 Software\Rambler
 Software\RegisteredApplications" /v "Firefox-308046B0AF4A39CB
 Software\RegisteredApplications" /v "Kometa.VC4YBCHFM54RDTDQVTYKIS5BKA
@@ -174,6 +181,7 @@ Software\UpdateStar
 Software\WajaNetEn
 Software\WajIEnhance
 Software\WindowsPlayer
+Software\WOW6432Node\ByteFence
 Software\WOW6432Node\Google\Chrome\Extension
 Software\WOW6432Node\Google\Chrome\ExtensionInstallForcelist
 Software\WOW6432Node\Google\Chrome\ExtensionInstallSources
@@ -196,25 +204,36 @@ SYSTEM\CurrentControlSet\Services\KuaizipUpdateChecker
 SYSTEM\CurrentControlSet\Services\Nunesstither
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{026004CA-1E3F-425F-907D-C43E75EE6627}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0445FEDD-89B1-44B2-912A-A9900CD4112A}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0BFF1B80-8C09-4452-8CBC-8C79CE791A72}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0F275F4C-9F44-4E28-A957-105F1AAF3E14}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{17461B81-B4E0-4538-A2D1-FB5BFF8AFD92}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{20B39F55-2B71-4B0C-A2B7-3EF96D3A9DF2}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{29FC7EF2-B029-45F2-A9EC-56621D876E44}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{2CFF83EA-FEA7-47D6-8147-493DAC6750DB}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{35336070-7134-42F9-8874-B289EA9C04EE}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{39346CC9-2F0B-4225-AC67-BB7C9422583F}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{3E273931-9E02-4E4D-B7E0-1A7B70BFAF4E}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{3FF46466-980A-44DA-A029-BE60B8DA0793}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{42C5C828-6186-411F-A223-EEE7D1EAB4C4}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{47CF33B6-5114-44A6-93CD-B18B8CA8B3C0}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{4BDE8CC6-D365-47A3-B2C4-F7D3D61B44AB}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{583AC84D-71F3-445C-A9CD-6D98ED763245}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5A29017D-CD8E-4194-9054-317F5217476B}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5AEF9E2E-E47C-44E5-A7E5-436401F1C18E}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5B042B4F-8AB8-4C4E-A90F-EB24C3C326CF}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{607764C8-C9F7-4302-B9A9-A2A9F4BB56D1}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{6E127D16-3902-4E4D-B684-B81C74DD1A7E}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{84651335-E91D-4251-B839-92B432B06309}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{8479D860-AF46-4F9D-B472-92C18145E6A9}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{950A62BF-C866-4B38-BB0E-77CD7E879520}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{9926DEB9-A0E0-4D5D-91BE-9149E01BD96F}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{9BDB5ED3-E6F4-469C-9CAE-EC35668A7D6D}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{A7FE0F17-12EC-4937-AFA0-28A5A2BC2F38}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{A80B7E33-265A-462D-BDDF-4BBC6F41F76D}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{AD2CE6E3-708C-4536-8554-408DE0ACB5CC}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B03B7673-8617-4134-8E2A-FB0057E6F77A}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B14D94F1-2BD4-487B-B64D-2ECD264BDAFA}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B48DDC99-250E-4C77-ACD7-25D58C62B36C}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B61220BB-711A-41E8-99BA-567E19273F4D}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{B7BF8973-3FFF-419D-AB5F-F8A01AD5720C}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{BC7317FA-7B55-4066-8549-B66200D50D3A}
@@ -223,12 +242,18 @@ SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\Firewal
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{CE88B05D-E4C7-49B2-9196-0F89E0693FEE}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D011B4E7-B156-4789-8D1A-5D936CC5C12E}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D0E2999B-751B-4E86-8969-AC1E94221BFB}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D361527D-04FE-452F-AF50-6F8D3AB77AEF}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D4898874-E767-41F2-B83A-53EFCE94ADD5}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D55C53D1-B605-48BD-A2B4-D34D314E237B}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{D9D8F01B-88AA-4F33-9A62-226ED2EFF649}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{DB8048BE-6EFD-4EC4-B6E7-08A9F56491E4}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{DC34B2E2-7407-41AC-B25E-26FBD0D55532}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{DD709629-E185-407C-AB5C-669DCEB5464B}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{DFC29B86-A8AF-492F-882B-E57638BBC58B}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{E214DDE1-842F-4CDF-824E-B09263D56B52}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{E4BB3FF6-9438-44FA-9968-5F73EC16DB68}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{E5F3C0EC-0CF5-480F-8220-4F33266072CC}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{EA7DF2A2-0064-4BB9-BFBB-14A52B7E8487}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{F083B83A-E0ED-4764-A667-1358417FE6F1}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{FF74A4FE-E28E-455B-9A31-D2C35E87C59B}
 SYSTEM\CurrentControlSet\Services\WinSnare
