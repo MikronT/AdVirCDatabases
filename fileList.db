@@ -10,7 +10,7 @@ dirs\userProfile.db
 
 files\appData.db
 files\appData-firefoxUserProfile.db
-files\browsersShortcuts.db
+files\browserShortcuts.db
 files\programFiles.db
 files\shortcuts.db
 files\systemDrive.db
