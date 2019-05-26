@@ -20,13 +20,13 @@ launcher.exe
 magent.exe
 MailRuUpdater.exe
 Monitor.exe
-notepad.exe
-notepad++.exe
+# notepad.exe
+# notepad++.exe
 ObnoviSoft.exe
 OneClickApp.64.exe
 OneClickApp.exe
 OneClickBandHandler.exe
-opera.exe
+# opera.exe
 PCFasterSvc.exe
 popwndexe.exe
 QQPCMgrUpdate.exe
