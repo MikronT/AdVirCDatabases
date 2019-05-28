@@ -26,7 +26,6 @@ Software\Kometa
 Software\KuaiZip
 Software\KuaiZipSFX
 Software\Local AppWizard-Generated Applications\Reimage - Windows Problem Relief.
-# Software\Macromedia
 Software\Mail.Ru
 Software\McAfee.com
 Software\mcafeeupdater
@@ -199,7 +198,6 @@ Software\Yandex
 SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\QQPCRTP
 SYSTEM\CurrentControlSet\Control\SafeBoot\Network\QQPCRTP
 SYSTEM\CurrentControlSet\Services\Archer
-# SYSTEM\CurrentControlSet\Services\Eventlog
 SYSTEM\CurrentControlSet\Services\GubedZL
 SYSTEM\CurrentControlSet\Services\gupdatem
 SYSTEM\CurrentControlSet\Services\IUProcessFilter
