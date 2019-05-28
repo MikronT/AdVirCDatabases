@@ -6,19 +6,24 @@ aswUpdSv.exe
 AutoUpdate.exe
 AvastSvc.exe
 avastui.exe
+BavTray.exe
+browser_broker.exe
 BrowserManager.exe
 chromium.exe
 Dashlane.exe
 Dashlane_Installer-4.6.8.25848.exe
 DashlanePlugin.exe
+Disko.exe
 GoogleCrashHandler.exe
 GuardMailRu.exe
 icq.exe
 kometa.exe
 KometaLaunchPanel.exe
 launcher.exe
+lite_installer.exe
 magent.exe
 MailRuUpdater.exe
+mediaget.exe
 Monitor.exe
 # notepad.exe
 # notepad++.exe
@@ -29,8 +34,10 @@ OneClickBandHandler.exe
 # opera.exe
 PCFasterSvc.exe
 popwndexe.exe
+QMDL.exe
 QQPCMgrUpdate.exe
 QQPCTray.exe
+QQPCRTP.exe
 QQPCUpdateAVLib.exe
 ReiProtectorM.exe
 rfwdown1248827.exe
@@ -50,4 +57,5 @@ update.exe
 updater.exe
 UpdateStar.exe
 UranUpdate.exe
+VkontakteDJ.exe
 yupdate-exec.exe

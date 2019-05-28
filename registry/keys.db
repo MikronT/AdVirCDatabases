@@ -90,6 +90,7 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 6
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 7
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 8
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 9
+Software\Microsoft\Windows\CurrentVersion\Run" /v "AdwCleaner
 Software\Microsoft\Windows\CurrentVersion\Run" /v "agent.desktop
 Software\Microsoft\Windows\CurrentVersion\Run" /v "amigo
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu Antivirus
@@ -97,16 +98,19 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu PC Faster 5.1.0.0
 Software\Microsoft\Windows\CurrentVersion\Run" /v "CommonToolkitTray_Solvusoft
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Dashlane
 Software\Microsoft\Windows\CurrentVersion\Run" /v "DashlanePlugin
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Disko
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Guard.Mail.ru.gui
 Software\Microsoft\Windows\CurrentVersion\Run" /v "hdtask
 Software\Microsoft\Windows\CurrentVersion\Run" /v "icq.desktop
 Software\Microsoft\Windows\CurrentVersion\Run" /v "IObit Malware Fighter
 Software\Microsoft\Windows\CurrentVersion\Run" /v "KometaLaunchPanel
 Software\Microsoft\Windows\CurrentVersion\Run" /v "MailRuUpdater
+Software\Microsoft\Windows\CurrentVersion\Run" /v "MBLauncher
 Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGet
 Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGet2
 Software\Microsoft\Windows\CurrentVersion\Run" /v "MediaGetLLC
 Software\Microsoft\Windows\CurrentVersion\Run" /v "mrupdsrv
+Software\Microsoft\Windows\CurrentVersion\Run" /v "ObnoviSoft
 Software\Microsoft\Windows\CurrentVersion\Run" /v "OneDrive
 Software\Microsoft\Windows\CurrentVersion\Run" /v "QQPCTray
 Software\Microsoft\Windows\CurrentVersion\Run" /v "RavTRAY

@@ -111,13 +111,18 @@ MediaGet
 MediaGet LLC
 MediaGet2
 miaAC6.tmp
+miaF139.tmp
 Micron
 Microsoft\Installer\{074CBAD4-DB6D-4AD8-8A4B-C14B07C48531}
 Microsoft\Installer\{56FF428C-E621-461B-A1C2-59385F751A45}
 Microsoft\Internet Explorer\Services
 Microsoft\Windows\Start Menu\Programs\Advanced SystemCare
+Microsoft\Windows\Start Menu\Programs\AdwCleaner
+Microsoft\Windows\Start Menu\Programs\Baidu Antivirus
 Microsoft\Windows\Start Menu\Programs\ByteFence Anti-Malware
+Microsoft\Windows\Start Menu\Programs\Dashlane
 Microsoft\Windows\Start Menu\Programs\Dll Kit Pro
+Microsoft\Windows\Start Menu\Programs\Driver Booster 6
 Microsoft\Windows\Start Menu\Programs\FileViewPro
 Microsoft\Windows\Start Menu\Programs\FlvPlayer
 Microsoft\Windows\Start Menu\Programs\ICQ
@@ -127,6 +132,7 @@ Microsoft\Windows\Start Menu\Programs\Live Security Platinum
 Microsoft\Windows\Start Menu\Programs\Mail.Ru
 Microsoft\Windows\Start Menu\Programs\MediaGet2
 Microsoft\Windows\Start Menu\Programs\Orbitum
+Microsoft\Windows\Start Menu\Programs\PDF Tools
 Microsoft\Windows\Start Menu\Programs\profitsaver
 Microsoft\Windows\Start Menu\Programs\Reg Organizer
 Microsoft\Windows\Start Menu\Programs\reimage repair
@@ -139,6 +145,8 @@ Microsoft\Windows\Start Menu\Programs\Yandex
 Microsoft\Windows\Start Menu\Programs\Обнови Софт
 Microsoft\Windows\Start Menu\Programs\Приложения Амиго
 Microsoft\Windows\Start Menu\Programs\Рамблер-Браузер
+Microsoft\Windows\Start Menu\Programs\Яндекс
+Microsoft\Windows\Start Menu\Programs\Îáíîâè Ñîôò
 Microsoft\Windows\Start Menu\Боковая панель - Комета
 MIDI
 Mozilla\Firefox\Profiles\naweriweentcofise
@@ -155,6 +163,7 @@ OpenCandy
 Orbitum
 Package Cache
 PackageAware
+Packages\windows_ie_ac_001
 PC Clean Plus
 PC Faster
 PennyBee
@@ -225,6 +234,7 @@ VirtualStore\Program Files\Tencent
 Visual Protect Service
 VK Downloader
 VKDJ
+VkontakteDJ
 VNESARE
 VOF
 vofer
