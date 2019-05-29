@@ -120,6 +120,7 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "RSDTRAY
 Software\Microsoft\Windows\CurrentVersion\Run" /v "uCozMedia UranUpdate
 Software\Microsoft\Windows\CurrentVersion\Run" /v "UpdateStar
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Обнови Софт
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Run\QQDisabled
 Software\Microsoft\Windows\CurrentVersion\RunOnce\l529C50F600006EBE6939117384EB2988
 Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
@@ -160,6 +161,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\WinThruster
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YandexBrowser
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YaPinLancher
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Обнови Софт
+Software\Microsoft\Windows\CurrentVersion\WinTrust
 Software\Microsoft\Xpom
 Software\MimarSinan
 Software\Mozilla\NativeMessagingHosts\ru.mail.go.ext_info_host
