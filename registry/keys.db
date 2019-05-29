@@ -38,7 +38,9 @@ Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{68AE298D-7E8A-4
 # Software\Microsoft\Internet Explorer\Main
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 # Software\Microsoft\Internet Explorer\Toolbar
+Software\Microsoft\Internet Explorer\Toolbar" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
 # Software\Microsoft\Internet Explorer\URLSearchHooks
+Software\Microsoft\Internet Explorer\URLSearchHooks" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
 Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
@@ -54,6 +56,7 @@ Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Program
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\ICQ
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Mail.Ru
 Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\KzShlobj
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Guard.Mail.ru.gui
 Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611484}
 Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
