@@ -97,6 +97,7 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "agent.desktop
 Software\Microsoft\Windows\CurrentVersion\Run" /v "amigo
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu Antivirus
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu PC Faster 5.1.0.0
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Browser Manager
 Software\Microsoft\Windows\CurrentVersion\Run" /v "CommonToolkitTray_Solvusoft
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Dashlane
 Software\Microsoft\Windows\CurrentVersion\Run" /v "DashlanePlugin
