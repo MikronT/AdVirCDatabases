@@ -37,6 +37,6 @@ AdVirC Databases v2.0 Pre-Release 1 Revision 4            2.0.0.3.1.0.004
 AdVirC Databases v2.0 Release Revision 742                2.0.0.4.0.0.742
 
 AdVirC Databases v2.0 Beta 1 Revision 14                  2.1.0.2.1.0.014
-AdVirC Databases v2.1 Release Revision 114 Nightly 12     2.1.0.2.1.0.114.012
+AdVirC Databases v2.1 Release Revision 114 Nightly 12     2.1.0.4.0.0.114.012
 AdVirC Databases v2.1 Release Revision 243                2.1.0.4.0.0.243
 -->
