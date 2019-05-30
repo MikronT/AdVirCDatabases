@@ -56,7 +56,67 @@ Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Program
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\ICQ
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Mail.Ru
 Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\KzShlobj
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v " QQPCTray
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 10
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 11
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 12
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 13
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 14
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 15
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 16
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 17
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 18
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 19
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 2
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 20
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 21
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 22
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 23
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 24
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 25
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 26
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 27
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 28
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 29
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 3
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 30
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 4
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 5
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 6
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 7
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 8
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Advanced SystemCare 9
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "AdwCleaner
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "agent.desktop
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "amigo
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Baidu Antivirus
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Baidu PC Faster 5.1.0.0
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Browser Manager
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "CommonToolkitTray_Solvusoft
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Dashlane
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "DashlanePlugin
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Disko
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Guard.Mail.ru.gui
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "hdtask
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "icq.desktop
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "IObit Malware Fighter
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "KometaLaunchPanel
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "MailRuUpdater
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "MBLauncher
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "MediaGet
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "MediaGet2
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "MediaGetLLC
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "mrupdsrv
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "ObnoviSoft
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "OneDrive
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "QQPCTray
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "RavTRAY
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "RSDTRAY
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "uCozMedia UranUpdate
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "UpdateStar
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Обнови Софт
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611484}
 Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
