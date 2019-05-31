@@ -168,6 +168,11 @@ CLSID\{E52EB753-1F56-4DF7-BE53-2C314AC5F8A1}
 CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" /v "RavSaveDll
 CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" /v "RavSaveDll
 CLSID\{f414c262-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" /v "RavSaveDll
+Directore\shellex\ContextMenuHandlers\Advanced SystemCare
+Directore\shellex\ContextMenuHandlers\Baidu_Scan
+Directore\shellex\ContextMenuHandlers\KuaiZipShlExt
+Directore\shellex\ContextMenuHandlers\QMContextScan
+Directore\shellex\ContextMenuHandlers\RisingRavExt
 Directory\shellex\ContextMenuHandlers\Advanced SystemCare
 Directory\shellex\ContextMenuHandlers\Baidu_Scan
 Directory\shellex\ContextMenuHandlers\KuaiZipShlExt
