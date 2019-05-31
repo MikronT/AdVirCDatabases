@@ -6,4 +6,5 @@ extensions\staged\vb@yandex.ru.json
 extensions\staged\vb@yandex.ru.xpi
 extensions\vb@yandex.ru.xpi
 searchplugins\askcom.xml
+searchplugins\mailru.xml
 user.js
