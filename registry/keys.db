@@ -299,8 +299,10 @@ SYSTEM\CurrentControlSet\Services\KuaizipUpdateChecker
 SYSTEM\CurrentControlSet\Services\Nunesstither
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{026004CA-1E3F-425F-907D-C43E75EE6627}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0445FEDD-89B1-44B2-912A-A9900CD4112A}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{05FEFC69-1074-418D-A576-42696A4030B5}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0BFF1B80-8C09-4452-8CBC-8C79CE791A72}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{0F275F4C-9F44-4E28-A957-105F1AAF3E14}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{12A7DC2B-F9E5-43F5-842B-371CBA692740}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{14D002E3-838A-45F6-B58F-255B1024EBD9}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{17461B81-B4E0-4538-A2D1-FB5BFF8AFD92}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{20B39F55-2B71-4B0C-A2B7-3EF96D3A9DF2}
@@ -319,12 +321,14 @@ SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\Firewal
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{47CF33B6-5114-44A6-93CD-B18B8CA8B3C0}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{4845F625-1D14-4E9E-999D-5EBFBB09314E}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{4BDE8CC6-D365-47A3-B2C4-F7D3D61B44AB}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{573D08B3-773A-4A97-BDC1-EC40069030F8}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{583AC84D-71F3-445C-A9CD-6D98ED763245}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5A29017D-CD8E-4194-9054-317F5217476B}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5A35E0F6-82A8-4963-8A8E-3A6F7793BC22}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5AEF9E2E-E47C-44E5-A7E5-436401F1C18E}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5B042B4F-8AB8-4C4E-A90F-EB24C3C326CF}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5C62BDEA-B0AC-4ECD-BB53-9A405E92ED42}
+SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{5CC620D4-3997-4479-9E7F-3DD3A2CA5B7A}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{60597978-7145-46BA-A09E-2303A9735DD1}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{607764C8-C9F7-4302-B9A9-A2A9F4BB56D1}
 SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules" /v "{60B57ACD-410E-443D-8DF0-A5723FB1FD47}
