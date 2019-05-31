@@ -34,8 +34,19 @@ Software\MediaGet
 Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
 Software\Microsoft\Gosearch
 Software\Microsoft\Gosearchq
+Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{5B236E3E-80B2-4322-B6A2-529D751B7FB1}
 Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{68AE298D-7E8A-4F53-BE55-15D2B065F6C0}
+Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{86C0DF75-21A4-498E-9F67-1400ADC6D356}
+Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{90EA790F-53C1-4652-A70A-296B9CC3914B}
+Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{F05E0524-ED06-43A7-BB08-04FEF67C7D11}
+Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\2f913039_0
+Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\55decbfc_0
+Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\875870be_0
+Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\ada9bf87_0
+Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\cd5b5b13_0
+Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\fe178b77_0
 # Software\Microsoft\Internet Explorer\Main
+Software\Microsoft\Internet Explorer\SearchScopes\{E88E0043-C9D4-4e33-8555-FEE4F5B63060}
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 # Software\Microsoft\Internet Explorer\Toolbar
 Software\Microsoft\Internet Explorer\Toolbar" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
