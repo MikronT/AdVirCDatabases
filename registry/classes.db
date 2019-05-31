@@ -49,8 +49,20 @@ CLSID\{C9487131-EF4C-40D9-BA70-E85356CAF67E}
 CLSID\{D2D4C0D4-2E88-40D0-A0DB-B8F9AC388529}
 CLSID\{E52EB753-1F56-4DF7-BE53-2C314AC5F8A1}
 Directory\shellex\ContextMenuHandlers\Advanced SystemCare
+Directory\shellex\ContextMenuHandlers\Baidu_Scan
+Directory\shellex\ContextMenuHandlers\KuaiZipShlExt
+Directory\shellex\ContextMenuHandlers\QMContextScan
+Directory\shellex\ContextMenuHandlers\RisingRavExt
 Drive\shellex\ContextMenuHandlers\Advanced SystemCare
+Drive\shellex\ContextMenuHandlers\Baidu_Scan
+Drive\shellex\ContextMenuHandlers\KuaiZipShlExt
+Drive\shellex\ContextMenuHandlers\QMContextScan
+Drive\shellex\ContextMenuHandlers\RisingRavExt
+Folder\shellex\ContextMenuHandlers\Advanced SystemCare
+Folder\shellex\ContextMenuHandlers\Baidu_Scan
+Folder\shellex\ContextMenuHandlers\KuaiZipShlExt
 Folder\shellex\ContextMenuHandlers\QMContextScan
+Folder\shellex\ContextMenuHandlers\RisingRavExt
 globalUpdate.OneClickCtrl.10
 globalUpdate.OneClickProcessLauncherMachine
 globalUpdate.OneClickProcessLauncherMachine.1.0
@@ -216,7 +228,10 @@ KuaiZipMount.vcd
 KuaiZipMount.wv
 KuaiZipMount_FileAsso.Origin
 lnkfile\shellex\ContextMenuHandlers\Advanced SystemCare
+lnkfile\shellex\ContextMenuHandlers\Baidu_Scan
+lnkfile\shellex\ContextMenuHandlers\KuaiZipShlExt
 lnkfile\shellex\ContextMenuHandlers\QMContextScan
+lnkfile\shellex\ContextMenuHandlers\RisingRavExt
 magent
 MailRu.MailRuSputnikObj
 MailRu.MailRuSputnikObj.1
