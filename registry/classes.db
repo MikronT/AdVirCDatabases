@@ -113,7 +113,11 @@
 .qbox
 ad.h
 ad.h.1
+AllFilesystemObjects\shellex\ContextMenuHandlers\Advanced SystemCare
+AllFilesystemObjects\shellex\ContextMenuHandlers\Baidu_Scan
+AllFilesystemObjects\shellex\ContextMenuHandlers\KuaiZipShlExt
 AllFilesystemObjects\shellex\ContextMenuHandlers\QMContextScan
+AllFilesystemObjects\shellex\ContextMenuHandlers\RisingRavExt
 AmigoHTML.VC4YBCHFM54RDTDQVTYKIS5BKA
 AppID\{28FF42B8-A0DA-4BE5-9B81-E26DD59B350A}
 AppID\{3045035B-3C14-4698-8AC4-ADB18CC42C1E}
