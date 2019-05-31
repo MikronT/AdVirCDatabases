@@ -10,7 +10,6 @@ System32\drivers\BHipsEx.sys
 System32\drivers\Bnbasex.sys
 System32\drivers\Bndef.sys
 System32\drivers\Bprotect.sys
-System32\drivers\HWiNFO32.sys
 System32\drivers\KuaiZipDrive.sys
 System32\drivers\TFsFlt.sys
 System32\drivers\TsFltMgr.sys

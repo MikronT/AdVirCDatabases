@@ -211,7 +211,6 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\{80107F16-CB2E-42AB-AB9D-6C1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{95f0deb2-2099-4305-8cbe-a02c9fdd4dc2}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{C187DB08-7705-4616-834B-87B3087AE698}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{C618052B-B62E-4B56-BC46-F324BD298B79}_is1
-Software\Microsoft\Windows\CurrentVersion\Uninstall\{DF6A13C0-77DF-41FE-BD05-6D5201EB0CE7}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{EB6332D7-3C3F-43AC-B332-4DC6E4EFE0C6}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Advanced SystemCare_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\agent.desktop
@@ -265,7 +264,6 @@ Software\Policies\Google\Chrome\ExtensionInstallSources
 Software\PRODUCTSETUP
 Software\Rambler
 Software\RegisteredApplications" /v "Elements Browser.A6E5FU6ABX3K2W727HT6XJZ434
-Software\RegisteredApplications" /v "Firefox-308046B0AF4A39CB
 Software\RegisteredApplications" /v "Kometa.VC4YBCHFM54RDTDQVTYKIS5BKA
 Software\RegisteredApplications" /v "Yandex.A6E5FU6ABX3K2W727HT6XJZ434
 Software\RegisteredApplications" /v "Yandex.PEKD4VWOOO6QHCIB4QOPPGZFM4
