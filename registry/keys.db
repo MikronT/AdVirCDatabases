@@ -99,6 +99,7 @@ Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Dash
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Disko
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Guard.Mail.ru.gui
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "hdtask
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "icq.desktop
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "IObit Malware Fighter
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "KometaLaunchPanel
@@ -116,7 +117,6 @@ Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "RSDT
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "uCozMedia UranUpdate
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "UpdateStar
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Обнови Софт
-Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611484}
 Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
@@ -164,6 +164,7 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "DashlanePlugin
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Disko
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Guard.Mail.ru.gui
 Software\Microsoft\Windows\CurrentVersion\Run" /v "hdtask
+Software\Microsoft\Windows\CurrentVersion\Run" /v "Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Run" /v "icq.desktop
 Software\Microsoft\Windows\CurrentVersion\Run" /v "IObit Malware Fighter
 Software\Microsoft\Windows\CurrentVersion\Run" /v "KometaLaunchPanel
@@ -181,7 +182,6 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "RSDTRAY
 Software\Microsoft\Windows\CurrentVersion\Run" /v "uCozMedia UranUpdate
 Software\Microsoft\Windows\CurrentVersion\Run" /v "UpdateStar
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Обнови Софт
-Software\Microsoft\Windows\CurrentVersion\Run" /v "Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Run\QQDisabled
 Software\Microsoft\Windows\CurrentVersion\RunOnce\l529C50F600006EBE6939117384EB2988
 Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
