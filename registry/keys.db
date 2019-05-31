@@ -56,6 +56,7 @@ Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Office\Outlook\Addins\RsOLScan.OutlookAddin
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant" /v "ExecutablesToExclude
 # Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
 # Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{CC2D1001-4CAF-4C05-8AD3-656F57B1C46E}
 # Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
@@ -64,6 +65,7 @@ Software\Microsoft\Windows\CurrentVersion\App Paths\browser.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
 Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.flac\OpenWithProgids" /v "KuaiZipMount.flac
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Amigo Apps
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\ICQ
 Software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Mail.Ru
@@ -256,16 +258,21 @@ Software\Mozilla\NativeMessagingHosts\ru.mail.go.ext_info_host
 Software\MozillaPlugins
 Software\NetBox
 Software\Obnovi Soft
+Software\PCFMini
 Software\Policies\Google\Chrome\ExtensionInstallForcelist
 Software\Policies\Google\Chrome\ExtensionInstallSources
 Software\PRODUCTSETUP
 Software\Rambler
+Software\RegisteredApplications" /v "Elements Browser.A6E5FU6ABX3K2W727HT6XJZ434
 Software\RegisteredApplications" /v "Firefox-308046B0AF4A39CB
 Software\RegisteredApplications" /v "Kometa.VC4YBCHFM54RDTDQVTYKIS5BKA
+Software\RegisteredApplications" /v "Yandex.A6E5FU6ABX3K2W727HT6XJZ434
 Software\RegisteredApplications" /v "Yandex.PEKD4VWOOO6QHCIB4QOPPGZFM4
 Software\RegisteredApplications" /v "Yandex.VC4YBCHFM54RDTDQVTYKIS5BKA
 Software\RegisteredApplications" /v "Амиго.VC4YBCHFM54RDTDQVTYKIS5BKA
 Software\Reimage
+Software\Rising
+Software\RisingRepire
 Software\Solvusoft
 Software\Solvusoft Corporation
 Software\Tencent
