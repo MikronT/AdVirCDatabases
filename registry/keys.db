@@ -187,10 +187,13 @@ Software\Microsoft\Windows\CurrentVersion\RunOnce\l529C50F600006EBE6939117384EB2
 Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
 Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "KuaiZip Shell Extension
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{074CBAD4-DB6D-4AD8-8A4B-C14B07C48531}
+Software\Microsoft\Windows\CurrentVersion\Uninstall\{1279B22F-A648-12B8-BF1E-76469B653423}_is1
+Software\Microsoft\Windows\CurrentVersion\Uninstall\{4113B29F-A248-42B8-BF1E-76469B653423}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{56FF428C-E621-461B-A1C2-59385F751A45}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{80107F16-CB2E-42AB-AB9D-6C11540D5A8B}
+Software\Microsoft\Windows\CurrentVersion\Uninstall\{C187DB08-7705-4616-834B-87B3087AE698}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{C618052B-B62E-4B56-BC46-F324BD298B79}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{DF6A13C0-77DF-41FE-BD05-6D5201EB0CE7}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Advanced SystemCare_is1
@@ -203,6 +206,8 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\DllKit Pro 2017
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Driver Booster_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\FileViewPro_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Guard.Mail.ru
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Hiru
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Uninstall\icq.desktop
 Software\Microsoft\Windows\CurrentVersion\Uninstall\IObit Malware Fighter_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Kometa
@@ -213,11 +218,15 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\MailRuSputnik
 Software\Microsoft\Windows\CurrentVersion\Uninstall\MailRuUpdater
 Software\Microsoft\Windows\CurrentVersion\Uninstall\McAfee Security Scan
 Software\Microsoft\Windows\CurrentVersion\Uninstall\MediaGet
+Software\Microsoft\Windows\CurrentVersion\Uninstall\PDFTools_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\QQPCMgr
+Software\Microsoft\Windows\CurrentVersion\Uninstall\RAV
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Reg Organizer 5_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Reimage Repair
+Software\Microsoft\Windows\CurrentVersion\Uninstall\RSD
 Software\Microsoft\Windows\CurrentVersion\Uninstall\UnityWebPlayer
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Uran
+Software\Microsoft\Windows\CurrentVersion\Uninstall\VkontakteDJ
 Software\Microsoft\Windows\CurrentVersion\Uninstall\WinThruster
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YandexBrowser
 Software\Microsoft\Windows\CurrentVersion\Uninstall\YaPinLancher
