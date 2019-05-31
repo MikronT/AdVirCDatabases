@@ -42,10 +42,8 @@ NET
 Nettrans
 PCFasterSvc_{PCFaster_5.1.0.0}
 QMUdisk
-qmudisk
 QQPCRPT
 QQPCRTP
-qqpcrtp
 QQSysMon
 Recover
 ReimageRealTimeProtector
@@ -55,10 +53,8 @@ SMUpd
 SMUpdd
 SvcHost Service Host
 tfsflt
-TFsFlt
 TsFltMgr
 tsksp
 TSSysKit
-tssyskit
 Updater.Mail.Ru
 YandexBrowserService
