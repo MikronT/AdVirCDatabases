@@ -44,10 +44,10 @@ Software\Microsoft\Internet Explorer\URLSearchHooks" /v "{09900DE8-1DCA-443F-924
 Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
 Software\Microsoft\Shared Tools\MSConfig\startupreg\Publisher
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{CC2D1001-4CAF-4C05-8AD3-656F57B1C46E}
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
-Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\DllKitPRO
+# Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Plain\{52DE8CAB-1CCE-4CC5-87A0-F27C06AA7585}
+# Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{CC2D1001-4CAF-4C05-8AD3-656F57B1C46E}
+# Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\ASC10_SkipUac_%userName%
+# Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\DllKitPRO
 Software\Microsoft\Windows\CurrentVersion\App Paths\browser.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
 Software\Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
