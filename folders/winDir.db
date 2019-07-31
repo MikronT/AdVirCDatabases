@@ -1,9 +1,15 @@
 IObit
 lOBit
 psgo
+
+System32\AI_RecycleBin
 System32\C2MP
 System32\Tasks\Windows\Recovery\Cleaner
+System32\Searchprotect
 System32\sstmp
+
+SysWOW64\AI_RecycleBin
 SysWOW64\C2MP
 SysWOW64\Tasks\Windows\Recovery\Cleaner
+SysWOW64\Searchprotect
 SysWOW64\sstmp

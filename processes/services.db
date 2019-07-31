@@ -1,5 +1,6 @@
 9F383F5174261C04289475FD9654D5EB
 AdBlockerService
+AdobeARMService
 AdvancedSystemCareService
 AdvancedSystemCareService10
 AdvancedSystemCareService11
@@ -35,6 +36,9 @@ BavSvc
 BdSandboxSrv
 BHipsSvc
 Guard.Mail.ru
+hshld
+hsstrayservice
+hsswd
 iThemes5
 KuaiZipDrive
 mrupdsrv
@@ -57,4 +61,5 @@ TsFltMgr
 tsksp
 TSSysKit
 Updater.Mail.Ru
+vToolbarUpdater17.3.0
 YandexBrowserService
