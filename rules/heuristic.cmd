@@ -21,5 +21,5 @@
 
 
 
-echo.System scan runned. It can take a lot of time. Please wait...
+echo.System scan runned. Please wait...
 sfc /scannow
