@@ -5,7 +5,7 @@ rem bcdedit /deletevalue {current} kernel
 rem bcdedit /deletevalue {current} nointegritychecks
 rem bcdedit /deletevalue {current} custom:26000027
 
-rem reg delete HKLM\SYSTEM\CurrentControlSet\services\oem-drv64 /va /f>>%log_debug%
+(reg delete HKLM\SYSTEM\CurrentControlSet\services\oem-drv64 /va /f)>nul 2>>%log_debug%
 
 
 
