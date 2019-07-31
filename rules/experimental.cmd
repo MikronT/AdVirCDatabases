@@ -11,4 +11,4 @@ rem bcdedit /deletevalue {current} custom:26000027
 
 
 
-rem netsh winsock reset
+netsh winsock reset
