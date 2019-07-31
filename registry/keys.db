@@ -48,6 +48,13 @@ Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStor
 Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\ada9bf87_0
 Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\cd5b5b13_0
 Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\fe178b77_0
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\drp.su
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\e.mail.ru
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\ivkonkovamailru.webagent.mail.ru
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\mail.ru
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\ovgorskiy.ru
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\update.drp.su
+Software\Microsoft\Internet Explorer\LowRegistry\DOMStorage\ya.ru
 Software\Microsoft\Internet Explorer\SearchScopes\{E88E0043-C9D4-4e33-8555-FEE4F5B63060}
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 Software\Microsoft\Internet Explorer\Toolbar" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
@@ -240,6 +247,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\RAV
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Reg Organizer 5_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Reimage Repair
 Software\Microsoft\Windows\CurrentVersion\Uninstall\RSD
+Software\Microsoft\Windows\CurrentVersion\Uninstall\SoftwareUpdater
 Software\Microsoft\Windows\CurrentVersion\Uninstall\UnityWebPlayer
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Uran
 Software\Microsoft\Windows\CurrentVersion\Uninstall\VkontakteDJ
@@ -268,6 +276,8 @@ Software\Rising
 Software\RisingRepire
 Software\Solvusoft
 Software\Solvusoft Corporation
+Software\SupTab
+Software\supWindowsMangerProtect
 Software\Tencent
 Software\uCozMedia
 Software\Ultimate-Discounter
