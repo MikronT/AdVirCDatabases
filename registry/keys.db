@@ -23,6 +23,7 @@ Software\Google\Chrome\NativeMessagingHosts\ru.mail.go.ext_info_host
 Software\icq.desktop
 Software\InfoSoftware
 Software\IObit
+Software\Jawego
 Software\Kometa
 Software\KuaiZip
 Software\KuaiZipSFX
@@ -137,6 +138,11 @@ Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-730
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
 Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\61F70108E2BCBA24BAD9C61145D0A5B8
 Software\Microsoft\Windows\CurrentVersion\Run" /v " QQPCTray
+Software\Microsoft\Windows\CurrentVersion\Run" /v "1882677
+Software\Microsoft\Windows\CurrentVersion\Run" /v "5296080
+Software\Microsoft\Windows\CurrentVersion\Run" /v "607436
+Software\Microsoft\Windows\CurrentVersion\Run" /v "6976251
+Software\Microsoft\Windows\CurrentVersion\Run" /v "7448567
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 10
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 11

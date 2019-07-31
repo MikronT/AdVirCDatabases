@@ -1,7 +1,9 @@
+__init.ini
 AdobeUCI.exe
 aliexpress.exe
 aps.uninstall.scan.results
 Booking.exe
+config.json
 Duplicaterecord.js
 Google\Chrome\User Data\Default\IndexedDB\https_cloud.mail.ru_0.indexeddb.leveldb
 Google\Chrome\User Data\Default\IndexedDB\https_e.mail.ru_0.indexeddb.leveldb
@@ -34,6 +36,7 @@ Installer.dat
 Lexikix.exe
 Matwarm.exe
 service.exe
+Sippoint.lnk
 smp2.exe
 vof.exe
 vof.exe.sha1
