@@ -12,6 +12,7 @@ Software\Carambis
 Software\ChemTable Software
 Software\Chromium
 Software\Common Toolkit Suite
+Software\CoreTempApp
 Software\csastats
 Software\Dashlane
 Software\Dashlane_profiles
@@ -20,6 +21,7 @@ Software\drpsu
 Software\DtsEncodeTools
 Software\Elements Browser
 Software\Google\Chrome\NativeMessagingHosts\ru.mail.go.ext_info_host
+Software\HwmonitorApp
 Software\icq.desktop
 Software\InfoSoftware
 Software\IObit\ASCDownloader
@@ -34,6 +36,7 @@ Software\McAfee.com
 Software\mcafeeupdater
 Software\Media Get LLC
 Software\MediaGet
+Software\MediaPlayerApplication
 Software\Microsoft\Direct3D\MostRecentApplication" /v "Name
 Software\Microsoft\Gosearch
 Software\Microsoft\Gosearchq
@@ -59,6 +62,7 @@ Software\Microsoft\Internet Explorer\SearchScopes\{E88E0043-C9D4-4e33-8555-FEE4F
 Software\Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
 Software\Microsoft\Internet Explorer\Toolbar" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
 Software\Microsoft\Internet Explorer\URLSearchHooks" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
+Software\Microsoft\MediaPlayer\ShimInclusionList\amigo.exe
 Software\Microsoft\MediaPlayer\ShimInclusionList\browser.exe
 Software\Microsoft\Office\Outlook\Addins\RsOLScan.OutlookAddin
 Software\Microsoft\Shared Tools\MSConfig\startupreg\msiql
@@ -107,7 +111,7 @@ Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Adva
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "AdwCleaner
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "agent.desktop
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "amigo
-Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "AVG-Secure-Search-Update_1113a?
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "AVG-Secure-Search-Update_1113a
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Baidu Antivirus
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Baidu PC Faster 5.1.0.0
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Browser Manager
@@ -135,7 +139,10 @@ Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "RSDT
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "uCozMedia UranUpdate
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "UpdateStar
 Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run" /v "Обнови Софт
+Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\QQDisabled
 Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611484}
+Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{8E8F97CD-60B5-456F-A201-73065652D099}
+Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{10ECCE17-29B5-4880-A8F5-EAD298611484}
 Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
 Software\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
 Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\61F70108E2BCBA24BAD9C61145D0A5B8
@@ -173,6 +180,7 @@ Software\Microsoft\Windows\CurrentVersion\Run" /v "Advanced SystemCare 9
 Software\Microsoft\Windows\CurrentVersion\Run" /v "AdwCleaner
 Software\Microsoft\Windows\CurrentVersion\Run" /v "agent.desktop
 Software\Microsoft\Windows\CurrentVersion\Run" /v "amigo
+Software\Microsoft\Windows\CurrentVersion\Run" /v "AVG-Secure-Search-Update_1113a
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu Antivirus
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Baidu PC Faster 5.1.0.0
 Software\Microsoft\Windows\CurrentVersion\Run" /v "Browser Manager
@@ -212,6 +220,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D49
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{80107F16-CB2E-42AB-AB9D-6C11540D5A8B}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{95f0deb2-2099-4305-8cbe-a02c9fdd4dc2}
+Software\Microsoft\Windows\CurrentVersion\Uninstall\{A6AE177E-D46B-4463-AA69-B9F818E0DC4A}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{C187DB08-7705-4616-834B-87B3087AE698}
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{C618052B-B62E-4B56-BC46-F324BD298B79}_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\{EB6332D7-3C3F-43AC-B332-4DC6E4EFE0C6}_is1
@@ -221,6 +230,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\Amigo
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu Antivirus
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 4.0.0.0
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 5.1.0.0
+Software\Microsoft\Windows\CurrentVersion\Uninstall\CoreTempApp
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Dashlane
 Software\Microsoft\Windows\CurrentVersion\Uninstall\DllKit Pro 2017
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Driver Booster_is1
@@ -228,6 +238,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\Elements Browser
 Software\Microsoft\Windows\CurrentVersion\Uninstall\FileViewPro_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Guard.Mail.ru
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Hiru
+Software\Microsoft\Windows\CurrentVersion\Uninstall\HwmonitorApp
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Îáíîâè Ñîôò
 Software\Microsoft\Windows\CurrentVersion\Uninstall\icq.desktop
 Software\Microsoft\Windows\CurrentVersion\Uninstall\InfoSoftware
@@ -240,13 +251,16 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\MailRuSputnik
 Software\Microsoft\Windows\CurrentVersion\Uninstall\MailRuUpdater
 Software\Microsoft\Windows\CurrentVersion\Uninstall\McAfee Security Scan
 Software\Microsoft\Windows\CurrentVersion\Uninstall\MediaGet
+Software\Microsoft\Windows\CurrentVersion\Uninstall\MediaPlayerApplication
 Software\Microsoft\Windows\CurrentVersion\Uninstall\MozillaMaintenanceService
+Software\Microsoft\Windows\CurrentVersion\Uninstall\Mp3tagApp
 Software\Microsoft\Windows\CurrentVersion\Uninstall\PDFTools_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\QQPCMgr
 Software\Microsoft\Windows\CurrentVersion\Uninstall\RAV
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Reg Organizer 5_is1
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Reimage Repair
 Software\Microsoft\Windows\CurrentVersion\Uninstall\RSD
+Software\Microsoft\Windows\CurrentVersion\Uninstall\SIVApp
 Software\Microsoft\Windows\CurrentVersion\Uninstall\SoftwareUpdater
 Software\Microsoft\Windows\CurrentVersion\Uninstall\UnityWebPlayer
 Software\Microsoft\Windows\CurrentVersion\Uninstall\Uran
@@ -258,6 +272,7 @@ Software\Microsoft\Windows\CurrentVersion\Uninstall\Обнови Софт
 Software\Microsoft\Xpom
 Software\Mozilla\Firefox\Extensions" /v "Avg@toolbar
 Software\Mozilla\NativeMessagingHosts\ru.mail.go.ext_info_host
+Software\Mp3tagApp
 Software\NetBox
 Software\Obnovi Soft
 Software\PCFMini
@@ -274,6 +289,7 @@ Software\RegisteredApplications" /v "Амиго.VC4YBCHFM54RDTDQVTYKIS5BKA
 Software\Reimage
 Software\Rising
 Software\RisingRepire
+Software\SIVApp
 Software\Solvusoft
 Software\Solvusoft Corporation
 Software\SupTab

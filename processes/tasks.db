@@ -12,6 +12,7 @@ ASC10_SkipUac_%userName%
 BackgroundContainer Startup Task
 Baidu PC Faster Service
 Baidu PC Faster Update
+CheckControllerUpdatesUA
 DllKitPRO
 Driver Booster Scheduler
 Driver Booster SkipUAC (%userName%)
