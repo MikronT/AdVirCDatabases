@@ -6,9 +6,3 @@ rem bcdedit /deletevalue {current} nointegritychecks
 rem bcdedit /deletevalue {current} custom:26000027
 
 (reg delete HKLM\SYSTEM\CurrentControlSet\services\oem-drv64 /va /f)>nul 2>>%log_debug%
-
-
-
-
-
-netsh winsock reset

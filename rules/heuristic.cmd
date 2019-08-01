@@ -24,4 +24,4 @@ reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon" /v "Userini
 
 
 echo.^(i^) System scan runned. Please wait...
-sfc /scannow
+sfc /scannownetsh winsock reset
