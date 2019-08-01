@@ -1,9 +1,11 @@
-echo.^(i^) Fixing shortcuts...
+echo.%language_cleaning_rules_heuristic_shortcuts%
 (for /f "delims=" %%i in (%dataDir%\databases\rewrited\dirs\shortcuts.db) do if exist "%%i" for /f "delims=" %%j in ('dir /a:-d /b "%%i\*.lnk"') do attrib /s -h -r -s "%%i\%%j")>nul 2>nul
 
 
 
-echo.^(i^) Checking registry...
+
+
+echo.%language_cleaning_rules_heuristic_registry%
 (for /f "delims=" %%i in ('reg query "HKLM\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" ^| find /i /c "Default"') do if "%%i" == "1" reg add "HKLM\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" /ve /t REG_SZ /d "%WinDir%\system32\jscript.dll" /f)>nul 2>nul
 (for /f "delims=" %%i in ('reg query "HKLM\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" ^| find /i /c "Default"') do if "%%i" == "1" reg add "HKLM\CLSID\{f414c261-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" /ve /t REG_SZ /d "%WinDir%\system32\jscript.dll" /f)>nul 2>nul
 (for /f "delims=" %%i in ('reg query "HKLM\CLSID\{f414c262-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" ^| find /i /c "Default"') do if "%%i" == "1" reg add "HKLM\CLSID\{f414c262-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32" /ve /t REG_SZ /d "%WinDir%\system32\jscript.dll" /f)>nul 2>nul
@@ -23,5 +25,14 @@ reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon" /v "Userini
 
 
 
-echo.^(i^) System scan runned. Please wait...
-sfc /scannownetsh winsock reset
+
+
+echo.%language_cleaning_rules_heuristic_systemScan%
+sfc /scannow
+
+
+
+
+
+echo.%language_cleaning_rules_heuristic_reset%
+netsh winsock reset
