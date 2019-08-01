@@ -1,0 +1,186 @@
+agent.desktop
+Amigo
+AppDataLow\Software\Mail.Ru
+AppDataLow\Software\Unity
+AppDataLow\Software\Yandex
+AppDataLow\Yandex
+Baidu Security
+Baidu_Drp_pos
+BavMini
+ByteFence
+Carambis
+ChemTable Software
+Chromium
+Common Toolkit Suite
+CoreTempApp
+csastats
+Dashlane
+Dashlane_profiles
+DllKitPRO
+drpsu
+DtsEncodeTools
+Elements Browser
+Google\Chrome\NativeMessagingHosts\ru.mail.go.ext_info_host
+HwmonitorApp
+icq.desktop
+InfoSoftware
+IObit\ASCDownloader
+Jawego
+Kometa
+KuaiZip
+KuaiZipSFX
+lOBit
+Local AppWizard-Generated Applications\Reimage - Windows Problem Relief.
+Mail.Ru
+McAfee.com
+mcafeeupdater
+Media Get LLC
+MediaGet
+MediaPlayerApplication
+Microsoft\Direct3D\MostRecentApplication" /v "Name
+Microsoft\Gosearch
+Microsoft\Gosearchq
+Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{5B236E3E-80B2-4322-B6A2-529D751B7FB1}
+Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{68AE298D-7E8A-4F53-BE55-15D2B065F6C0}
+Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{86C0DF75-21A4-498E-9F67-1400ADC6D356}
+Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{90EA790F-53C1-4652-A70A-296B9CC3914B}
+Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{F05E0524-ED06-43A7-BB08-04FEF67C7D11}
+Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\2f913039_0
+Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\55decbfc_0
+Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\875870be_0
+Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\ada9bf87_0
+Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\cd5b5b13_0
+Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\fe178b77_0
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\drp.su
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\e.mail.ru
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\ivkonkovamailru.webagent.mail.ru
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\mail.ru
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\ovgorskiy.ru
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\update.drp.su
+Microsoft\Internet Explorer\LowRegistry\DOMStorage\ya.ru
+Microsoft\Internet Explorer\SearchScopes\{E88E0043-C9D4-4e33-8555-FEE4F5B63060}
+Microsoft\Internet Explorer\SearchScopes\{FFEBBF0A-C22C-4172-89FF-45215A135AC7}
+Microsoft\Internet Explorer\Toolbar" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
+Microsoft\Internet Explorer\URLSearchHooks" /v "{09900DE8-1DCA-443F-9243-26FF581438AF}
+Microsoft\MediaPlayer\ShimInclusionList\amigo.exe
+Microsoft\MediaPlayer\ShimInclusionList\browser.exe
+Microsoft\Office\Outlook\Addins\RsOLScan.OutlookAddin
+Microsoft\Shared Tools\MSConfig\startupreg\msiql
+Microsoft\Shared Tools\MSConfig\startupreg\Publisher
+Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant" /v "ExecutablesToExclude
+Microsoft\Windows\CurrentVersion\App Paths\browser.exe
+Microsoft\Windows\CurrentVersion\App Paths\Reimage.exe
+Microsoft\Windows\CurrentVersion\App Paths\WinThruster.exe
+Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+Microsoft\Windows\CurrentVersion\Explorer\FileExts\.flac\OpenWithProgids" /v "KuaiZipMount.flac
+Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Amigo Apps
+Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\ICQ
+Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Start Menu2\Programs\Mail.Ru
+Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\KzShlobj
+Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611484}
+Microsoft\Windows\CurrentVersion\Ext\Settings\{8E8F97CD-60B5-456F-A201-73065652D099}
+Microsoft\Windows\CurrentVersion\Ext\Stats\{10ECCE17-29B5-4880-A8F5-EAD298611484}
+Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
+Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
+Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\61F70108E2BCBA24BAD9C61145D0A5B8
+Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
+Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "KuaiZip Shell Extension
+Microsoft\Windows\CurrentVersion\Uninstall\{074CBAD4-DB6D-4AD8-8A4B-C14B07C48531}
+Microsoft\Windows\CurrentVersion\Uninstall\{1279B22F-A648-12B8-BF1E-76469B653423}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\{4113B29F-A248-42B8-BF1E-76469B653423}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\{56FF428C-E621-461B-A1C2-59385F751A45}
+Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\{5870F523-AC12-444E-9F8C-D4966CCE8CE9}}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\{80107F16-CB2E-42AB-AB9D-6C11540D5A8B}
+Microsoft\Windows\CurrentVersion\Uninstall\{95f0deb2-2099-4305-8cbe-a02c9fdd4dc2}
+Microsoft\Windows\CurrentVersion\Uninstall\{A6AE177E-D46B-4463-AA69-B9F818E0DC4A}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\{C187DB08-7705-4616-834B-87B3087AE698}
+Microsoft\Windows\CurrentVersion\Uninstall\{C618052B-B62E-4B56-BC46-F324BD298B79}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\{EB6332D7-3C3F-43AC-B332-4DC6E4EFE0C6}_is1
+Microsoft\Windows\CurrentVersion\Uninstall\Advanced SystemCare_is1
+Microsoft\Windows\CurrentVersion\Uninstall\agent.desktop
+Microsoft\Windows\CurrentVersion\Uninstall\Amigo
+Microsoft\Windows\CurrentVersion\Uninstall\Baidu Antivirus
+Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 4.0.0.0
+Microsoft\Windows\CurrentVersion\Uninstall\Baidu PC Faster 5.1.0.0
+Microsoft\Windows\CurrentVersion\Uninstall\CoreTempApp
+Microsoft\Windows\CurrentVersion\Uninstall\Dashlane
+Microsoft\Windows\CurrentVersion\Uninstall\DllKit Pro 2017
+Microsoft\Windows\CurrentVersion\Uninstall\Driver Booster_is1
+Microsoft\Windows\CurrentVersion\Uninstall\Elements Browser
+Microsoft\Windows\CurrentVersion\Uninstall\FileViewPro_is1
+Microsoft\Windows\CurrentVersion\Uninstall\Guard.Mail.ru
+Microsoft\Windows\CurrentVersion\Uninstall\Hiru
+Microsoft\Windows\CurrentVersion\Uninstall\HwmonitorApp
+Microsoft\Windows\CurrentVersion\Uninstall\Îáíîâè Ñîôò
+Microsoft\Windows\CurrentVersion\Uninstall\icq.desktop
+Microsoft\Windows\CurrentVersion\Uninstall\InfoSoftware
+Microsoft\Windows\CurrentVersion\Uninstall\IObit Malware Fighter_is1
+Microsoft\Windows\CurrentVersion\Uninstall\Kometa
+Microsoft\Windows\CurrentVersion\Uninstall\KometaLaunchPanel
+Microsoft\Windows\CurrentVersion\Uninstall\KuaiZip
+Microsoft\Windows\CurrentVersion\Uninstall\Live Security Platinum
+Microsoft\Windows\CurrentVersion\Uninstall\MailRuSputnik
+Microsoft\Windows\CurrentVersion\Uninstall\MailRuUpdater
+Microsoft\Windows\CurrentVersion\Uninstall\McAfee Security Scan
+Microsoft\Windows\CurrentVersion\Uninstall\MediaGet
+Microsoft\Windows\CurrentVersion\Uninstall\MediaPlayerApplication
+Microsoft\Windows\CurrentVersion\Uninstall\MozillaMaintenanceService
+Microsoft\Windows\CurrentVersion\Uninstall\Mp3tagApp
+Microsoft\Windows\CurrentVersion\Uninstall\PDFTools_is1
+Microsoft\Windows\CurrentVersion\Uninstall\QQPCMgr
+Microsoft\Windows\CurrentVersion\Uninstall\RAV
+Microsoft\Windows\CurrentVersion\Uninstall\Reg Organizer 5_is1
+Microsoft\Windows\CurrentVersion\Uninstall\Reimage Repair
+Microsoft\Windows\CurrentVersion\Uninstall\RSD
+Microsoft\Windows\CurrentVersion\Uninstall\SIVApp
+Microsoft\Windows\CurrentVersion\Uninstall\SoftwareUpdater
+Microsoft\Windows\CurrentVersion\Uninstall\UnityWebPlayer
+Microsoft\Windows\CurrentVersion\Uninstall\Uran
+Microsoft\Windows\CurrentVersion\Uninstall\VkontakteDJ
+Microsoft\Windows\CurrentVersion\Uninstall\WinThruster
+Microsoft\Windows\CurrentVersion\Uninstall\YandexBrowser
+Microsoft\Windows\CurrentVersion\Uninstall\YaPinLancher
+Microsoft\Windows\CurrentVersion\Uninstall\Обнови Софт
+Microsoft\Xpom
+Mozilla\Firefox\Extensions" /v "Avg@toolbar
+Mozilla\NativeMessagingHosts\ru.mail.go.ext_info_host
+Mp3tagApp
+NetBox
+Obnovi Soft
+PCFMini
+Policies\Google\Chrome\ExtensionInstallForcelist
+Policies\Google\Chrome\ExtensionInstallSources
+PRODUCTSETUP
+Rambler
+RegisteredApplications" /v "Elements Browser.A6E5FU6ABX3K2W727HT6XJZ434
+RegisteredApplications" /v "Kometa.VC4YBCHFM54RDTDQVTYKIS5BKA
+RegisteredApplications" /v "Yandex.A6E5FU6ABX3K2W727HT6XJZ434
+RegisteredApplications" /v "Yandex.PEKD4VWOOO6QHCIB4QOPPGZFM4
+RegisteredApplications" /v "Yandex.VC4YBCHFM54RDTDQVTYKIS5BKA
+RegisteredApplications" /v "Амиго.VC4YBCHFM54RDTDQVTYKIS5BKA
+Reimage
+Rising
+RisingRepire
+SIVApp
+Solvusoft
+Solvusoft Corporation
+SupTab
+supWindowsMangerProtect
+Tencent
+uCozMedia
+Ultimate-Discounter
+Unity
+UpdateStar
+Vkontakte.dj
+WajaNetEn
+WajIEnhance
+WindowsPlayer
+WOW6432Node\ByteFence
+WOW6432Node\Google\Chrome\Extension
+WOW6432Node\Google\Chrome\ExtensionInstallForcelist
+WOW6432Node\Google\Chrome\ExtensionInstallSources
+WOW6432Node\Microsoft\Internet Explorer\Toolbar
+WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+Xpom
+Yandex

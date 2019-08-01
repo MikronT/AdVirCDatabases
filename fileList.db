@@ -2,6 +2,8 @@ dirs\appData.db
 dirs\classes.db
 dirs\extensions.db
 dirs\keys.db
+dirs\keys-software.db
+dirs\keys-software-run.db
 dirs\programFiles.db
 dirs\shortcuts.db
 dirs\temp.db
@@ -29,6 +31,8 @@ processes\tasks.db
 
 registry\classes.db
 registry\keys.db
+registry\keys-software.db
+registry\keys-software-run.db
 
 # rules\experimental.cmd
 # rules\heuristic.cmd
