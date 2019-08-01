@@ -4,6 +4,7 @@ dirs\extensions.db
 dirs\keys.db
 dirs\keys-software.db
 dirs\keys-software-run.db
+dirs\keys-software-runs.db
 dirs\programFiles.db
 dirs\shortcuts.db
 dirs\temp.db
