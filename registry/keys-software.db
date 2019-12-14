@@ -24,7 +24,7 @@ Google\Chrome\NativeMessagingHosts\ru.mail.go.ext_info_host
 HwmonitorApp
 icq.desktop
 InfoSoftware
-IObit\ASCDownloader
+IObit
 Jawego
 Kometa
 KuaiZip
@@ -81,6 +81,7 @@ Microsoft\Windows\CurrentVersion\Ext\Settings\{10ECCE17-29B5-4880-A8F5-EAD298611
 Microsoft\Windows\CurrentVersion\Ext\Settings\{8E8F97CD-60B5-456F-A201-73065652D099}
 Microsoft\Windows\CurrentVersion\Ext\Stats\{10ECCE17-29B5-4880-A8F5-EAD298611484}
 Microsoft\Windows\CurrentVersion\Ext\Stats\{8E8F97CD-60B5-456F-A201-73065652D099}
+Microsoft\Windows\CurrentVersion\Internet Settings\zonemap\domains\drp.su
 Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\5556309623D8EAC478D3B24F6A68D7B0
 Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\61F70108E2BCBA24BAD9C61145D0A5B8
 Microsoft\Windows\CurrentVersion\Shell Extensions\Approved" /v "{63332668-8CE1-445D-A5EE-25929176714E}
